@@ -1,5 +1,6 @@
 # Simulated-Annealing
 #1.	Deskripsi Masalah
+
 Menemukan solusi optimal untuk masalah pengoptimalan tertentu bisa menjadi tugas yang sangat sulit, seringkali tidak mungkin dilakukan. Ini karena ketika sebuah masalah menjadi cukup besar, kita perlu mencari sejumlah besar solusi yang mungkin untuk menemukan yang optimal. Bahkan dengan daya komputasi modern masih sering ada banyak kemungkinan solusi yang perlu dipertimbangkan.
 Simulated annealing (SA) adalah metode untuk memecahkan masalah optimasi yang tidak dibatasi dan dibatasi. Metode memodelkan proses fisik memanaskan material dan kemudian perlahan menurunkan suhu untuk menurunkan cacat, sehingga meminimalkan energi sistem.
 
